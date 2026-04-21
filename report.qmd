@@ -2,28 +2,32 @@
 title: Report
 ---
 
-TODO: Write your report in this `report.qmd` file using markdown syntax.
+: Write your report in this `report.qmd` file using markdown syntax.
 
 ## What this was lab about
 
-TODO: Briefly summarize what this lab was about and what you did at a high level.
-
+: Briefly summarize what this lab was about and what you did at a high level.
+This lab was to understand how use real life data from people takin g surveys and explore making a visualization on a personal website to show others what our data means ina confidential level, such that we could see possible future patterns with the current data we retireved by using data gathering, exploartion and data wrangling at a high level to find these said patterns in our data to make visualisations.
 ## Methods
 
-TODO: Briefly talk about the methods you used to gather the data and any specific functions that helped reveal the patterns.
-
+: Briefly talk about the methods you used to gather the data and any specific functions that helped reveal the patterns.
+I used a google form survey to gather data from my classmates that were willing to answer the survey and conclude to see what house people prefer the most on the weekends when they want to go partying after a long stressful academic week, which most people in the class preffered to go and party at the delt house.
 ## Findings
 
-TODO: Briefly restate what you found out about your classmates by exploring the data. 
+: Briefly restate what you found out about your classmates by exploring the data. 
 
-TODO: Briefly restate what your found out about your site usage by exploring the Google Analytics Data.
+I found that most kids prefered delt house to party at and that most kids took a long time to go into my survey and answer it before the end of the lab.
 
+: Briefly restate what your found out about your site usage by exploring the Google Analytics Data.
+I found in figure 1 that it took about 20 days to get above on average 1 person to enter into my form and answer my suvey over the month, this allowed me to explore and under stand the user usage over time and understand how long someone may take to do a survey or what time specific they entered in and do the surevey.
 Please refer to the figures you made in the notebook by title. For example, "As shown in figure 1..."
 
 ## Discussion
 
-TODO: Briefly mention how data gathering can help you answer specific questions.
-
+: Briefly mention how data gathering can help you answer specific questions.
+Data gathering can help answer specific questions by using the data given by survey's to show what people may or may not be interested in such as movie topics or tv shows to watch on the weekends.
 ## Future directions
 
-TODO: Briefly state what could be explored within the data in the future, building on what you already did. Your answer must be something that you could actually do with the data, related to this lab.
+: Briefly state what could be explored within the data in the future, building on what you already did. Your answer must be something that you could actually do with the data, related to this lab.
+
+This lab could be explored in the future to create a world wide type of website that takes the answers of everyone that takes it and spits out possible suggestions based on the average answer to each question or show the population leans in different area's of a question.
